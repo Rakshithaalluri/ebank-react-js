@@ -1,0 +1,32 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.in-container {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logout-button {
+  border: 1px #ffffff solid;
+  background-color: transparent;
+  height: 30px;
+  width: 80px;
+  color: #ffffff;
+  font-size: 12px;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+
+.card-image {
+  height: 300px;
+  width: 500px;
+}
